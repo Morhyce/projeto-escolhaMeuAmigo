@@ -38,7 +38,7 @@ Este é um simples programa de Amigo Secreto feito em HTML, CSS e JavaScript. O 
 
 ## Imagem do Projeto
 
-![Imagem do Projeto](C:\Users\mauri\OneDrive\Imagens\Screenshots\ProjetoOne.png)
+![Imagem do Projeto](ProjetoOne.png)
 
 ## Tecnologias Utilizadas
 
